@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 holaaa, esto es nuevo
+=======
+holAA, esto es un cambio
+
+
+
+y aqui otro
+>>>>>>> rama2
